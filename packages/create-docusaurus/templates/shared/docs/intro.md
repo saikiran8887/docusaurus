@@ -2,9 +2,11 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Setup & Configuration
 
-Let's discover **Docusaurus in less than 5 minutes**.
+TasqFlow Studio encapsulates both simple and complex solutions for application integration and automating third-party applications, administrative IT tasks, and business IT processes.
+
+Studio is at the heart of automation with TasqFlow products. Activities form into comprehensive workflows in Studio, which are then executed by the TasqFlow Bot and published to TasqFlow Orchestrator.
 
 ## Getting Started
 
